@@ -1,9 +1,5 @@
 # GetSimple CMS — HTB Walkthrough
 
-**Platform:** Hack The Box
-**Difficulty:** Easy
-**OS:** Linux
-**Category:** Web Exploitation → Privilege Escalation
 
 ---
 
